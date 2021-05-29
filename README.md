@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukastrkan)](https://github.com/lukastrkan)
+[![Lukáš's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukastrkan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
