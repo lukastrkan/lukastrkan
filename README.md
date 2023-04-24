@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 trying not to dropout from another college ,<br>👩‍💻 kinda sys and network admin <br>🔥 for some reason also PHP junior ecommerce
+👨‍🎓 trying not to dropout from another college ,<br>👩‍💻 kinda sys and network admin <br>🔥 for some reason also PHP junior in ecommerce
 
 
 ## 🌐 Socials:
