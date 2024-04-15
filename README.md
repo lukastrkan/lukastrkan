@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="160" src="https://i.kym-cdn.com/photos/images/newsfeed/001/396/640/5ed.gif"  />
+<img align="right" height="160" src="https://raw.githubusercontent.com/lukastrkan/lukastrkan/master/eso.gif"  />
 
 ###
 
