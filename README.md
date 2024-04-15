@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Lukáš and I'm a student from 🇨🇿</h2>
+<p align="left"><i>"Nebudeš slavnej, protože umíš hovno!" - Dave Lister</i></p>
 
 ###
 
